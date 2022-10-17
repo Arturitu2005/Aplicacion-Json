@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">appfull</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_login">Login</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="felicidades_has_logrado_entrar_al_programa">Felicidades has logrado entrar al programa</string>
+    <string name="bienvenido_entre_al_sitio">Bienvenido entre al sitio</string>
+    <string name="usurio">Usuario:</string>
+    <string name="usurio1">Usuario</string>
+    <string name="contrasenia">Contraseña:</string>
+    <string name="contrasenia1">Contraseña</string>
+    <string name="olvide_contrasenia">Olvide contraseña</string>
+    <string name="help">help</string>
+    <string name="registrar">Registrar</string>
+    <string name="acceder">Acceder</string>
+    <string name="es_momento_del_registro">Es momento del registro</string>
+    <string name="nombre_del_usuario">Nombre del usuario</string>
+    <string name="nombre">Nombre</string>
+    <string name="genero">Genero</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="Email">Correo Electronico</string>
+    <string name="Fin">Finalizar</string>
+    <string name="regresar">Regresar</string>
+    <string name="esta_en_proceso_esta_obci_n">Esta en proceso esta obción</string>
+</resources>
