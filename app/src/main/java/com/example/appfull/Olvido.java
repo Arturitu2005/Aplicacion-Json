@@ -13,7 +13,7 @@ public class Olvido extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_olvido);
-        Button Volver = findViewById(R.id.volver);
+        Button Volver = findViewById(R.id.volver2);
         Volver.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
