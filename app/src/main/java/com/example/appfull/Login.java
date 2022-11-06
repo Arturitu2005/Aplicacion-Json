@@ -114,6 +114,7 @@ public class Login extends AppCompatActivity {
         for(MyInfo myInfo : list){
             if (myInfo.getUsuario().equals(usr)&&myInfo.getContraseña().equals(passw)){
                 Intent intent = new Intent(Login.this, welcome_to_the_jungle.class);
+                intent.putExtra("MyInfo", myInfo);
                 startActivity(intent);
                 i = 1;
 
